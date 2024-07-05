@@ -2,13 +2,13 @@
  * @Author: caixin caixin185@163.com
  * @Date: 2024-07-03 18:37:12
  * @LastEditors: caixin
- * @LastEditTime: 2024-07-05 15:26:24
+ * @LastEditTime: 2024-07-05 16:38:52
  * @Description: file content
  */
 import { useState,Suspense,useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import './App.css'
+
 import { atom, useAtom } from 'jotai'
 import ErrorBounding from './components/ErrorBounding/index'
 import { ErrorBoundary } from "react-error-boundary";
