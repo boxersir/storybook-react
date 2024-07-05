@@ -1,0 +1,4 @@
+packages
+- "apps/*"
+#各种公共模块
+- 'packages/*'
